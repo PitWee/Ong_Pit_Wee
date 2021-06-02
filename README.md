@@ -12,8 +12,8 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/PitWee/Ong_Pit_Wee/main/images/IMG_4202.jpg)
-<img src="profile_pic.jpg" alt="My Profile Pic" width="500" height="600">
+![alt text](https://raw.githubusercontent.com/PitWee/Ong_Pit_Wee/main/images/OPW.jpg)
+
 
 <!-- Add your details -->
 
