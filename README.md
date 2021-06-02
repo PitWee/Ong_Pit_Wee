@@ -2,7 +2,7 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: borg.opw@gmai.com 
+✉️: borg.opw@gmail.com 
 &nbsp;&nbsp; 📲 +65-9745-4855
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/pit-wee-ong-b1842013/) 
 
@@ -13,6 +13,7 @@
 <!-- Add link to your picture -->
 
 ![alt text](https://raw.githubusercontent.com/PitWee/Ong_Pit_Wee/main/images/IMG_4202.jpg)
+<img src="profile_pic.jpg" alt="My Profile Pic" width="500" height="600">
 
 <!-- Add your details -->
 
@@ -24,6 +25,7 @@ I am __Pit Wee__, Experienced accounting manager for team of 13 with over 10 yea
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Extracirriular](#featured) <br> 
 
 <!-- ABOUT Section Ends -->
 
