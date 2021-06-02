@@ -2,21 +2,21 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+✉️: borg.opw@gmai.com 
+&nbsp;&nbsp; 📲 +65-9745-4855
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/pit-wee-ong-b1842013/) 
+
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/PitWee/Ong_Pit_Wee/main/images/IMG_4202.jpg)
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Pit Wee__, Experienced accounting manager for team of 13 with over 10 years experiences in US GAAP, APAC operations accounting and leading finance transformation/integrations in consumer industry. Setup new APAC Shared Service in 4 months and contributed to 1.3 mil savings. Currently learning about data analytics through RISE (collaboration between BCG and Singapore giverment). 
 
 
 <!-- Add link to the sections -->
