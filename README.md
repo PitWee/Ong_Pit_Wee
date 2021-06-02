@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/PitWee/Ong_Pit_Wee/main/images/OPW.jpg)
+![alt text](https://raw.githubusercontent.com/PitWee/Ong_Pit_Wee/main/images/OPW1.jpg)
 
 
 <!-- Add your details -->
